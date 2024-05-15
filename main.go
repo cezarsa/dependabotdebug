@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	_ "golang.org/x/sys/cpu"
+	_ "golang.org/x/text/date"
 )
 
 func main() {
