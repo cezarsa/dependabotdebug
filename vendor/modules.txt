@@ -1,8 +1,8 @@
-# golang.org/x/sys v0.10.0
-## explicit; go 1.17
+# golang.org/x/sys v0.21.0
+## explicit; go 1.18
 golang.org/x/sys/cpu
-# golang.org/x/text v0.10.0
-## explicit; go 1.17
+# golang.org/x/text v0.16.0
+## explicit; go 1.18
 golang.org/x/text/date
 golang.org/x/text/internal/cldrtree
 golang.org/x/text/internal/gen
